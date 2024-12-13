@@ -31,7 +31,7 @@ The `webstyle.css` file contains all the styles for the website. It includes sty
 
 ## Usage
 
-To view the website, CLICK HERE: 
+To view the website, CLICK HERE: https://accomodateurself.netlify.app
 
 ## Author
 
